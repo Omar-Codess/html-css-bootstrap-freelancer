@@ -1,0 +1,10 @@
+/* COMMON */
+img{
+    max-width: 100%;
+}
+
+/* header */
+header{
+    height: 80px;
+    background-color: #2c3e50;
+}
