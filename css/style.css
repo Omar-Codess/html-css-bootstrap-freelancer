@@ -10,10 +10,6 @@ header{
 }
 
 /* main */
-.col-12{
-    background-color: #1abc9c;
-}
-
 .card-image{
     height: 250px;
     width: 250px;
