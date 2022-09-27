@@ -14,3 +14,15 @@ header{
     height: 250px;
     width: 250px;
 }
+
+#sec-7{
+    background-color: #1abc9c;
+}
+
+#sec-9{
+    background-color: #3a546d;
+}
+/* footer */
+footer{
+    background-color: #2c3e50;
+}
