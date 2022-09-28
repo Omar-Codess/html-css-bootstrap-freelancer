@@ -3,6 +3,9 @@ img{
     max-width: 100%;
 }
 
+.ms_white{
+    color: white;
+}
 /* header */
 header{
     height: 80px;
@@ -36,6 +39,9 @@ header a{
     justify-content: center;
     flex-wrap: wrap;
     background-color: #1abc9c;
+    margin-bottom: 1rem;
+    width: 100%;
+    color: white;
 }
 
 .sec-7{
