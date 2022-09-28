@@ -6,7 +6,9 @@ img{
 /* header */
 header{
     height: 80px;
+    line-height: 80px;
     background-color: #2c3e50;
+    color: white;
 }
 
 header ul {
@@ -17,13 +19,19 @@ header li {
     margin: 0 1rem
 }
 
+header a{
+    text-decoration: none;
+    color: white;
+}
+
+
 /* main */
-.card-image{
+.ms_card-image{
     height: 250px;
     width: 250px;
 }
 
-#sec-7{
+.sec-7{
     background-color: #1abc9c;
 }
 
